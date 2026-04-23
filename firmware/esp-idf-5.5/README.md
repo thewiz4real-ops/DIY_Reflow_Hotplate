@@ -9,7 +9,7 @@ This project keeps the UI and control logic in Arduino-style C++, but runs insid
 - settings selection uses one large `NEXT` button
 - touch reading uses median filtering for better tap stability
 
-## One thing you still need
+## Dependency setup
 Clone `TFT_eSPI` into `components/TFT_eSPI`.
 
 Example:
@@ -29,7 +29,7 @@ idf.py -p PORT flash monitor
 
 ## Notes
 - Arduino is pulled in by `main/idf_component.yml`
-- the placeholder `components/` folder is included so the `TFT_eSPI` checkout has a clear home
+- the `components/` folder is included so the `TFT_eSPI` checkout has a clear home
 - touch uses these pins:
   - IRQ 36
   - MOSI 32

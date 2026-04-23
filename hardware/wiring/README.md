@@ -1,16 +1,10 @@
 # Wiring
 
-This folder is for the final wiring diagram and the working connector / pin map.
+This folder contains the wiring-side reference material included in the repo.
 
-Current status:
-- `connector_map.md` includes the firmware-side pin assignments
-- a full public-facing schematic is still missing
-
-Recommended files to add:
-- `wiring_overview.png`
-- `wiring_overview.pdf`
-- `mains_vs_low_voltage.png`
-- `connector_map.md`
+The current public wiring reference is:
+- `connector_map.md` for the firmware-side pin map
+- the YouTube build video for the physical routing and assembly details
 
 ## Recommended public note
 If you share wiring publicly, clearly mark:

@@ -77,9 +77,9 @@ It is shared as build documentation for a personal hobby project. I cannot take 
 
 - final calibration table that maps setpoint to real surface temperature
 
-## Possible future follow-up
+## Possible separate project
 
-- A later video may include a small controller PCB for the MOSFET and resistor section instead of the current perfboard approach.
+- A small controller PCB for the MOSFET and resistor section would be a natural spinoff from the current perfboard version.
 
 ## License
 

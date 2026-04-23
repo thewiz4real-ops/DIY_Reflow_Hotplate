@@ -1,10 +1,5 @@
 # Microscope mount
 
-No dedicated CAD or drawing file is checked in yet.
+This folder covers the center-mounted microscope support used in the build.
 
-This folder is reserved for the center-mounted microscope support. Good files to add later:
-
-- extrusion lengths
-- mount interface dimensions
-- hole spacing
-- clamp or bracket drawings
+The mount concept and layout are described in `docs/02_mechanical_build.md` and shown in the YouTube video.

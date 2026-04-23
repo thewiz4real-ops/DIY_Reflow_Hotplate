@@ -59,4 +59,4 @@ That combination gave a stable display on the CYD hardware used in this build.
 - improved stability and reduced flicker
 
 ## Important setup note
-`TFT_eSPI` still needs a working `User_Setup.h` / `User_Setup_Select.h` for the specific CYD display wiring and driver configuration.
+`TFT_eSPI` relies on a working `User_Setup.h` / `User_Setup_Select.h` for the specific CYD display wiring and driver configuration.

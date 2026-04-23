@@ -20,12 +20,9 @@ The fiberglass gasket helped slightly, but not enough. The center-mounted cerami
 The biggest clue was realizing that the sensor wire trapped between the plates was conducting heat into the sensor and creating a large reading error.
 
 ## Current result
-The final fix was removing the gap completely, stacking the old aluminum plate with the newer one, screwing both directly to the hotplate, and placing the sensor on top. That made the reflow behavior much more believable, although the firmware tuning still needs more work.
+The final fix was removing the gap completely, stacking the old aluminum plate with the newer one, screwing both directly to the hotplate, and placing the sensor on top. That made the reflow behavior much more believable and left final calibration as the main remaining tuning task.
 
-## Still to do
-- final sensor location tuning
-- firmware tuning for overshoot / runaway control
-- settings page adjustments for easier tuning
+## Calibration focus
 - real calibration table between setpoint and surface temperature
 
 ## Recommended next calibration step

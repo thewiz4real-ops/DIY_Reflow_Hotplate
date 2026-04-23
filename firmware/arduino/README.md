@@ -12,4 +12,4 @@ The Arduino version of the controller lives in `hotplate_controller/hotplate_con
 
 - this sketch targets the ESP32-2432S028 style CYD board
 - touch and heater pins match the ESP-IDF version
-- `TFT_eSPI` still needs the correct board-specific `User_Setup.h`
+- `TFT_eSPI` requires the correct board-specific `User_Setup.h`

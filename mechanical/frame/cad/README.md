@@ -8,5 +8,3 @@ Formats currently included:
 - 3MF export: `reflow-plate.3mf`
 - OBJ mesh export: `reflow-plate.obj`
 - OBJ material file: `reflow-plate.mtl`
-
-No STEP or STL export is checked in yet.

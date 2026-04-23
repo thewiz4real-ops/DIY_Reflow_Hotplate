@@ -1,5 +1,5 @@
 # Firmware assets
 
-No separate UI assets are checked in right now.
+The current interface is drawn directly in code.
 
-The current interface is drawn in code. Use this folder only if you later add logos, icons, splash images, or calibration graphics.
+This folder is available for any optional logos, icons, splash images, or calibration graphics associated with the firmware.

@@ -27,8 +27,8 @@ Treat the repo as documentation of an experimental build, not a certification cl
 Suggested wording:
 > Build and use at your own risk. This is a hobby project, not a certified commercial appliance.
 
-## Suggested future upgrade
-If you ever make a V2 intended for other people to build, add:
+## Safer design ideas
+If you ever make a more replication-focused version, add:
 - proper cable gland
 - independent thermal cutoff / fuse
 - dedicated earth lug to chassis

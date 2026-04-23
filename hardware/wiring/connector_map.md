@@ -21,9 +21,8 @@ This is the current firmware-side I/O map gathered from the checked-in code.
 | Thermistor | 100k NTC | Beta 3950 |
 | Fixed resistor | 10k | Used in the divider math in firmware |
 
-## Still missing
+## Build notes
 
-- physical connector names
-- wire colors
-- full mains routing diagram
-- low-voltage power distribution drawing
+This file focuses on the firmware-side pin map.
+
+The physical wire routing, connector placement, and mains layout are shown more clearly in the project video and the broader build notes than in a single fixed table.
