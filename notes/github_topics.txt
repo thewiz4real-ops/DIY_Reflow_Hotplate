@@ -1,0 +1,15 @@
+diy
+electronics
+pcb
+reflow
+hotplate
+rework
+esp32
+esp-idf
+arduino
+smd
+microscope
+cnc
+3d-printing
+embedded-systems
+hardware

@@ -1,0 +1,32 @@
+Category,Item,Description,Qty,Status,Link,Notes
+Hotplate,Day single burner hotplate,"18 cm, 1500 W hotplate used as the heater base",1,Used in build,https://www.megaflis.no/kjokken/kjokkenapparater/diverse-kjokkenapparater/day-kokeplate-o18cm-1500w?,Main heater base
+Mechanical,Top aluminum plate,"Aluminum sheet for the heated work surface",1,Used in build,https://www.aliexpress.com/item/1005009533760651.html,Builder note says 8 mm or 10 mm works and this build used 10 mm
+Mechanical,Base plate,"Main aluminum base plate",1,Used in build,,500 x 500 x 10 mm
+Mechanical,Secondary aluminum plate,"Second plate used during the final no-gap thermal fix",1,Used in build,,Stacked directly with the top plate
+Mechanical,Armature sheet,"2 mm aluminum sheet for the hand rest / armature",1,Used in build,,Folded sheet-metal style part
+Motion,80 mm gantry plate,"V-slot gantry plate used in the motion assembly",TODO,Used in build,https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099519049945,Exact quantity still needs checking
+Motion,V-slot wheel kit,"Wheel set for 2020 / 2040 profiles",TODO,Used in build,https://www.temu.com/no-en/3d-printer-additions-for--v-shaped--plate-set-special-skate-wheels-compatible-with-2020-2040-v-slot-profiles-g-606143246110085.html,Exact count still needs checking
+Motion,T-slot extrusion,"Black anodized extrusion for frame and microscope support",TODO,Used in build,https://www.temu.com/no-en/t-slot-2020-extrusion-european-standard-anodized-linear-rail-for-3d-printer-parts-and-cnc-diy-black-g-606341536023071.html,Exact lengths still need measuring
+Motion,2040 extrusion 500 mm,"One explicitly noted 2040 profile length from the build notes",1,Used in build,https://www.aliexpress.com/item/1005004784760394.htm,Raw note says 1 pcs 2040 500 mm
+Motion,Extrusion bracket set,"Joint plates, T-nuts, and M5 screws for the frame",1 kit,Used in build,https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099554813640,Frame hardware kit
+Tools,Profile drilling guide,"Drilling guide for aluminum profiles",1,Tool,https://www.temu.com/no-en/drilling-guide-for-vertical--designed-for-20-30-and-40-aluminum-profiles-featuring-sliders-and-an-m6-countersunk-step-drill-g-601103103107036.html,Optional build helper
+Electronics,ESP32-2432S028,"2.8 in CYD touchscreen board",1,Used in build,https://www.aliexpress.com/item/1005008314695130.html,Main controller
+Electronics,Crydom D2425 SSR,"25 A solid-state relay",1,Used in build,,Digikey part CC1006-ND
+Electronics,NTC thermistor,"100k NTC, beta 3950, 1 percent",1,Used in build,,Digikey part 283-NRBG105F3950B1F-ND
+Electronics,IRLZ44NPBF MOSFET,"MOSFET used in the driver section",1,Used in build,,Part number from raw notes
+Electronics,Perfboard,"Perfboard used for the final controller wiring",1,Used in build,,Controller board
+Electronics,JST-style connectors,"Plug connectors used on the perfboard build",TODO,Used in build,,Exact pitch and series still need checking
+Electronics,Resistor assortment,"Generic resistor pack used during the build",1 pack,Used in build,,Raw note says generic resistor package from AliExpress
+Power,5 V phone charger,"Repurposed as the ESP32 power supply in the original build",1,Used in build,,Public recommendation is to replace this with an enclosed certified PSU
+Power,Power switch,"Switch salvaged from a grounded power strip",1,Used in build,https://www.biltema.no/bygg/elektro/grenkontakter/grenkontakt-jordet/grenuttak-med-bryter-5-veis-hvitt-15-m-2000048332,Original build reused the switch only
+Optics,Digital microscope,"DM9-style microscope with LED lighting",1,Used in build,https://www.temu.com/goods.html?_bg_fs=1&goods_id=601099593977408,Used over the work surface
+Fasteners,Wood screws,"3 x 15 mm screw pack",1 pack,Used in build,https://www.biltema.no/bygg/festeelementer/treskruer/treskrue-3-x-15-200-stk-2000058078,Exact usage location still needs documenting
+Fasteners,M4 hex-head screws,"Hex-head machine screws used with tapped aluminum parts",TODO,Used in build,,Exact lengths and counts still need checking
+Wiring,Hookup wire,"Thin stranded wire used like manual traces on perfboard",TODO,Used in build,,Exact wire gauges not recorded yet
+Wiring,Mains cable,"Input power cable",1,Used in build,,Needs proper strain relief and enclosure documentation
+Consumables,UV resin,"Used to secure and insulate some mains-side joints",1,Used in build,,Treat this as experimental build documentation only
+Consumables,Ceramic cement,"Used during one thermistor mounting experiment",1,Experiment,,Not part of the final preferred setup
+Consumables,Fiberglass gasket,"Used in one thermal gap experiment",1,Experiment,,6 mm
+Tools,M4 tap,"Used for tapping threaded holes in the aluminum parts",1,Used in build,,For threading aluminum holes
+Tools,Laser thermometer,"Used to find a repeatable early preheat point",1,Tool,,Early calibration method
+Tools,Hot air gun,"Used during rework and testing",1,Tool,,Not part of the machine itself

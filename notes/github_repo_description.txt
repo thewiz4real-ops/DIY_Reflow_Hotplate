@@ -1,0 +1,1 @@
+DIY PCB reflow hotplate and microscope rework jig with ESP32 touchscreen control, SSR heater switching, custom aluminum mechanics, and Arduino + ESP-IDF firmware.
